@@ -1,1 +1,2 @@
 # DanceLogPrivacy
+permalink: /privacy
