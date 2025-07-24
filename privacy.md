@@ -1,3 +1,6 @@
+---
+permalink: /privacy
+---
 # **Privacy Policy – DanceLog App**
 
 Last updated: July 24, 2025
