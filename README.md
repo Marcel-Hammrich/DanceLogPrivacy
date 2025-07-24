@@ -1,2 +1,4 @@
 # DanceLogPrivacy
+---
 permalink: /privacy
+---
